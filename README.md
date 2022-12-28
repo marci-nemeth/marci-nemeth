@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at the University of Amsterdam. <br>I'm interested in ML, Algorithmic Trading, and Brain-Computer Interfaces.<br>I'm currently working on a GAN that generates professional profile photos in TensorFlow.<br>I'm available for collaborations.
+I study at the University of Amsterdam. <br>I'm interested in ML, Algorithmic Trading, and Brain-Computer Interfaces.<br>I'm currently working on a GAN that generates professional profile photos in TensorFlow.<br>I'm available for collaborations.
 
 
 ## 🌐 Socials:
