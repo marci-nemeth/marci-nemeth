@@ -12,9 +12,9 @@ I study at the University of Amsterdam. <br>I'm interested in ML, Algorithmic Tr
 
 ## 📚 My Reading List:
 
-![**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://books.google.es/books?id=HnetDwAAQBAJ&printsec=frontcover&dq=hands+on+machine+learning+with+scikit-learn+and+tensorflow&hl=en&sa=X&ved=2ahUKEwiW27Xnzqn8AhXu9LsIHYYiAo0Q6AF6BAgHEAI#v=onepage&q=hands%20on%20machine%20learning%20with%20scikit-learn%20and%20tensorflow&f=false)
+[**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://books.google.es/books?id=HnetDwAAQBAJ&printsec=frontcover&dq=hands+on+machine+learning+with+scikit-learn+and+tensorflow&hl=en&sa=X&ved=2ahUKEwiW27Xnzqn8AhXu9LsIHYYiAo0Q6AF6BAgHEAI#v=onepage&q=hands%20on%20machine%20learning%20with%20scikit-learn%20and%20tensorflow&f=false)
 
-![**How to DeFi**](https://books.google.es/books/about/How_to_DeFi.html?id=g6WazQEACAAJ&redir_esc=y)
+[**How to DeFi**](https://books.google.es/books/about/How_to_DeFi.html?id=g6WazQEACAAJ&redir_esc=y)
 
 
 ## 🌐 Socials:
