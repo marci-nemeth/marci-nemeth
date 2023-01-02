@@ -1,7 +1,8 @@
 # 💫 About Me:
 I study at the University of Amsterdam. <br>I'm interested in ML, Algorithmic Trading, and Brain-Computer Interfaces.<br>I'm currently working on a GAN that generates professional profile photos in TensorFlow.<br>I'm available for collaboration.
-## Main directoryies:
-**Insider Trading**: a directory 
+## Main directories:
+**Insider Trading**: a directory for testing insider trading signal based strategies.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-nemeth) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nemeth.marcell07) [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/marcellnmeth) [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white&color=yellow)](https://leetcode.com/user5028qD/)
